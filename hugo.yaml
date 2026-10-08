@@ -1,0 +1,9 @@
+baseURL: https://olamundo.dev.br/
+locale: pt-br
+title: Olá, Mundo Dev!
+
+theme: ["PaperMod"]
+
+params:
+  centerTheme: true
+  # Toc: true
