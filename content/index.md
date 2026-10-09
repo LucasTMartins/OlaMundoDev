@@ -2,7 +2,28 @@
 
 O objetivo desse site é centralizar fontes de conhecimento, ferramentas interessantes e todo tipo de conteúdo útil para quem realmente ama tecnologia!
 
+- [Alternativas Livres às Graduações](#alternativas-livres-às-graduações)
 - [SAP](#sap)
+
+## Alternativas Livres às Graduações
+
+A ideia das alternativas livres não é de que você tenha um diploma gratuitamente, mas sim que você tenha acesso a uma grade curricular de qualidade e totalmente gratuita, geralmente inspirada em grandes faculdades do mundo.
+
+- [Open Source Society University](#open-source-society-university---ossu)
+- [Universidade Brasileira Livre](#universidade-brasileira-livre---ubl)
+- [CyberLivre](#cyberlivre)
+
+### [Open Source Society University - OSSU](https://ossu.dev/)
+
+Atualmente a instituição sem fins lucrativos conta com grade grauita para cursos de Ciências da Computação, Ciência de Dados, Matemática e Matemática pré-universitária (para reforço antes dos demais cursos). Os cursos contam com grade inspirada em grandes universidades internacionais como Harvard, Princeton, MIT, etc, e está disponível somente em *INGLÊS*.
+
+### [Universidade Brasileira Livre - UBL](https://ulivre.dev/)
+
+A UBL é uma alternativa brasileira ao projeto OSSU com grades inspiradas em grandes universidades federais do Brasil e apoio de professores renomados. Atualmente o projeto conta com grade gratuita para Ciências da Computação e Matemática.
+
+### [CyberLivre](https://cyberlivre.netlify.app/)
+
+A CyberLivre é um projeto muito mais recente que os outros dois, e também conta com bem menos apoiadores, mas é igualmente interessante conhecer. O foco é apenas no curso de Cyber Segurança.
 
 ## SAP
 
