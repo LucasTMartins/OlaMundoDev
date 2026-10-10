@@ -8,13 +8,13 @@ O objetivo desse site é centralizar fontes de conhecimento, ferramentas interes
 
 ## Softwares Alternativos
 
-Aqui reúno não só algumas alternativas aos softwares de código fechado, como também software ruins para privacidade. Em geral, para quem preza pela privacidade costuma preferir software aberto, então acabei juntanto ambos os temas em um só.
+Aqui reúno não só algumas alternativas aos softwares de código fechado, como também aos software ruins para privacidade. Em geral, para quem preza pela privacidade costuma preferir software aberto, então acabei juntanto ambos os temas em um só.
 
 É importante valorizar os projetos de software aberto, pois muitas vezes são os que mais evitam monopólios e com isso acabaram fazendo parte de uma base essencial da tecnologia como conhecemos hoje.
 
 ### [AlternativeTo](https://alternativeto.net/)
 
-O foco desse site não é simplesmente softwares abertos, mas também qualquer alternativa de software que possa existir. É ótimo para encontrar diferentes caminhos para resultados semelhantes ou até melhores e conta com filtro de licença.
+O foco desse site não é simplesmente softwares abertos, mas também qualquer alternativa de software que possa existir. É ótimo para encontrar diferentes caminhos para resultados semelhantes, ou até melhores, e conta com filtro de licença.
 
 ### [PrivacyPack](https://privacypack.org/)
 
