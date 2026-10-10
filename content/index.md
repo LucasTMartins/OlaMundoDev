@@ -32,10 +32,6 @@ Há quem prefira software que resida em um país europeu para que siga as leis d
 
 A ideia das alternativas livres não é de que você tenha um diploma gratuitamente, mas sim que você tenha acesso a uma grade curricular de qualidade e totalmente gratuita, geralmente inspirada em grandes faculdades do mundo.
 
-- [Open Source Society University](#open-source-society-university---ossu)
-- [Universidade Brasileira Livre](#universidade-brasileira-livre---ubl)
-- [CyberLivre](#cyberlivre)
-
 ### [Open Source Society University - OSSU](https://ossu.dev/)
 
 Atualmente a instituição sem fins lucrativos conta com grade grauita para cursos de Ciências da Computação, Ciência de Dados, Matemática e Matemática pré-universitária (para reforço antes dos demais cursos). Os cursos contam com grade inspirada em grandes universidades internacionais como Harvard, Princeton, MIT, etc, e está disponível somente em *INGLÊS*.
