@@ -1,6 +1,6 @@
 # Olá, Mundo Dev!
 
-O objetivo desse site é centralizar fontes de conhecimento, ferramentas interessantes e todo tipo de conteúdo útil para quem realmente ama tecnologia!
+O objetivo desse site é centralizar fontes de conhecimento, ferramentas interessantes e todo tipo de conteúdo útil para quem realmente ama tecnologia! Alguns desses conteúdos podem estar disponíveis somente em inglês, então estejam preparados.
 
 - [Softwares Alternativos](#softwares-alternativos)
 - [Alternativas Livres às Graduações](#alternativas-livres-às-graduações)
