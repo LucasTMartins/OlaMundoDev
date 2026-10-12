@@ -2,9 +2,39 @@
 
 O objetivo desse site é centralizar fontes de conhecimento, ferramentas interessantes e todo tipo de conteúdo útil para quem realmente ama tecnologia! Alguns desses conteúdos podem estar disponíveis somente em inglês, então estejam preparados.
 
+- [Conteúdo para ajudar nos estudos](#conteúdo-para-ajudar-nos-estudos)
 - [Softwares Alternativos](#softwares-alternativos)
 - [Alternativas Livres às Graduações](#alternativas-livres-às-graduações)
 - [SAP](#sap)
+
+## Conteúdo para ajudar nos estudos
+
+Nessa seção contém conteúdos que não são necessáriamente a fonte original de como uma tecnologia funciona, mas que pode auxiliar em outros aspectos a entender essas tecnologias e o universo que as rodeia.
+
+### [TheOdinProject](https://www.theodinproject.com/)
+
+Apesar da simplicidade The Odin Project não é simplesmente um mero curso de programação que vai te dar um passo-a-passo da criação de um projeto clone-de-site-qualquer. Eles vasculharam a internet em busca dos melhores recursos para complementar seu aprendizado e os apresentaram em uma ordem lógica. A ideia do projeto é te tornar um dev independente, sem a necessidade de comprar um curso sempre que quiser aprender algo novo.
+
+### [FreeCodeCamp](https://www.freecodecamp.org/)
+
+Fundação sem fins lucrativos com foco em ensinar sobre programação e tecnologia gratuitamente para todos. Além dos diversos cursos disponíveis no site oficial, também há um canal do youtube com centenas de conteúdos interessantes sobre tecnologia.
+
+### [W3Schools](https://www.w3schools.com/)
+
+O W3Schools contém não somente documentações detalhadas de diversas tecnologias para desenvolvimento web, como também provém ambiente de testes online para analisar a maneira como o código se comporta. É possível encontrar facilmente referências e exemplos práticos para HTML, CSS, JavaScript, SQL, PHP, React, entre muitas mais tecnologias. O conteúdo é amplo e fácil de entender!
+
+### [Learn X in Y Minutes](https://learnxinyminutes.com/)
+
+O Learn X in Y Minutes te dá um breve resumo de linguagens de programação e tecnologias, semelhante a um Cheatsheets (folha de consulta). Aqui você não vai aprender nada muito mirabolante, mas é um primeiro passo para conhecer uma nova tecnologia.
+
+### [Learn Anything](https://learn-anything.xyz/)
+
+O Learn Anything é como um "google focado em fontes de aprendizado". Você pesquisa um tema e o site retorna vários artigos sobre o tema. Não somente conteúdo sobre como aprender, mas conteúdos extras e até projetos que usam determinada tecnologia.
+
+### [Roadmap.sh](https://roadmap.sh/)
+
+No Roadmap.sh terão mapas de estudo explicando exatamente a ordem de tudo o que você precisa aprender. Muitas vezes quando estudamos sozinhos acabamos pulando etapas, ou deixando de aprender coisas que não sabemos o quão importante serão para nossa evolução. Esse é um ótimo lugar para quem não sabe o que exatamente precisa estudar e a ordem dos estudos.
+
 
 ## Softwares Alternativos
 
@@ -214,4 +244,3 @@ Esta jornada de aprendizagem apresenta os elementos e as ferramentas do SAP Fior
 ### [7: Criando Aplicação Fiori Elements com serviço CAP](https://learning.sap.com/learning-journeys/developing-an-sap-fiori-elements-app-based-on-a-cap-odata-v4-service)
 
 Esta jornada de aprendizado guiará desenvolvedores, arquitetos e consultores pelo processo de criação e aprimoramento de um aplicativo baseado em elementos SAP Fiori, usando ferramentas SAP Fiori e o SAP Cloud Application Programming Model (CAP).
-
