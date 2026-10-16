@@ -2,10 +2,39 @@
 
 O objetivo desse site é centralizar fontes de conhecimento, ferramentas interessantes e todo tipo de conteúdo útil para quem realmente ama tecnologia! Alguns desses conteúdos podem estar disponíveis somente em inglês, então estejam preparados.
 
+- [Listas Incriveis](#listas-incriveis)
 - [Conteúdo para ajudar nos estudos](#conteúdo-para-ajudar-nos-estudos)
 - [Softwares Alternativos](#softwares-alternativos)
 - [Alternativas Livres às Graduações](#alternativas-livres-às-graduações)
 - [SAP](#sap)
+
+## Listas Incriveis
+
+Nada melhor para iniciar o tema do que as listas que inspiraram esse projeto. As "Awesome Lists" são conjuntos de links para conteúdos assim como esse mesmo aqui, para os mais variados temas possíveis.
+
+### [Awesome](https://github.com/sindresorhus/awesome)
+
+Esse é um compilado geral de tópicos interessantes. A Awesome List mais famosa do Github. Aqui os temas variam de teoria, tecnologias, livros, softwares interessantes, hardware, segurança e muito mais.
+
+### [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
+Essa lista foca em conteúdo para "auto-hospedagem", ou seja, para a prática de criar e manter seu próprio servidor caseiro com os programas que desejar. O foco dessa lista não é necessáriamente te ensinar a criar seu próprio servidor, mas é um ótimo lugar para conhecer novas aplicações para hospedar. A lista inclui também uma separação entre Software Livre e Software Não Livre (proprietário ou software de código aberto, mas que de alguma forma permite restringe a liberdade de uso, modificação e distribuição).
+
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+
+Lista focada em software para o sistema MacOS. Aqui os softwares variam tanto para desenvolvedores quanto para usuários. Temos utilitários, ferramentas de desenvolvimento, ferramentas de design, navegadores, etc. Ótimo para novos usuários conhecendo o sistema.
+
+### [Awsome For Beginners](https://github.com/MunGell/awesome-for-beginners)
+
+Conjunto de projetos open-source no github que aceitam contribuições de desenvolvedores iniciantes. Perfeito para quem está começando adquirir experiência real e poder contribuir para projetos com usuários de verdade.
+
+### [Papers We Love](https://paperswelove.org/)
+
+Um nicho um pouco diferente das demais listas, esse é um repositório de artigos acadêmicos voltados para ciências da computação. Os artigos estão em inglês, mas vale a pena dar uma olhada, nada que uma ferramenta de tradução não resolva.
+
+### [Tópico Awesome Lists no GitHub](https://github.com/topics/awesome)
+
+Essa é a página do tópico "Awesome Lists" no Github. O que significa que aqui você vai encontrar todas essas e muitas outras listas incriveis para todo tipo de conteúdo que buscar.
 
 ## Conteúdo para ajudar nos estudos
 
